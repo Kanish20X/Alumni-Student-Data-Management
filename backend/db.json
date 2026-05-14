@@ -1,0 +1,190 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@alumni.com",
+      "password": "$2a$10$ayekDGE.UP8GidHj/EP55utvGKOV9NgoopNOSzBNoOAEj2Dt6neEK",
+      "role": "admin",
+      "createdAt": "2026-03-25T19:37:30.184Z"
+    },
+    {
+      "id": 1774467450189,
+      "name": "Bhavya",
+      "email": "bhavyakim@gmail.com",
+      "password": "$2a$10$63HmpGuigW1YR4RYvwE6JOdqcJSgEkT8av/9fzJp5ChqGqJmYGWKa",
+      "role": "alumni",
+      "createdAt": "2026-03-25T19:37:30.302Z"
+    },
+    {
+      "id": 1774505494477,
+      "name": "MEDICHARLA K SATYA PHANINDRA",
+      "email": "23J41A05EGmallareddyuniversity@gmail.com",
+      "password": "$2a$10$F3V1EOXb6XE5G/vAzLh68uHjmwqjDZGAlzApYOKdsDeILtSV3tczW",
+      "role": "alumni",
+      "createdAt": "2026-03-26T06:11:34.726Z"
+    },
+    {
+      "id": 1774513795235,
+      "name": "MEDICHARLA K SATYA PHANINDRA",
+      "email": "mkanish2004@gmail.com",
+      "password": "$2a$10$qAzFv1epXvYRMRe95uz99uVYIFZdQx6/twwPSPmKd6qOafU7M.nXC",
+      "role": "alumni",
+      "createdAt": "2026-03-26T08:29:55.436Z"
+    }
+  ],
+  "alumni": [
+    {
+      "id": 1,
+      "name": "Priya Sharma",
+      "email": "priya@example.com",
+      "batch": "2018",
+      "branch": "Computer Science",
+      "company": "Google",
+      "location": "Hyderabad",
+      "phone": "9876543210",
+      "linkedin": "linkedin.com/in/priya",
+      "status": "employed",
+      "avatar": "PS"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Verma",
+      "email": "rahul@example.com",
+      "batch": "2019",
+      "branch": "Electronics",
+      "company": "Microsoft",
+      "location": "Bangalore",
+      "phone": "9876543211",
+      "linkedin": "linkedin.com/in/rahul",
+      "status": "employed",
+      "avatar": "RV"
+    },
+    {
+      "id": 3,
+      "name": "Ananya Patel",
+      "email": "ananya@example.com",
+      "batch": "2020",
+      "branch": "Mechanical",
+      "company": "ISRO",
+      "location": "Chennai",
+      "phone": "9876543212",
+      "linkedin": "linkedin.com/in/ananya",
+      "status": "employed",
+      "avatar": "AP"
+    },
+    {
+      "id": 4,
+      "name": "Karan Singh",
+      "email": "karan@example.com",
+      "batch": "2017",
+      "branch": "Civil",
+      "company": "L&T",
+      "location": "Mumbai",
+      "phone": "9876543213",
+      "linkedin": "linkedin.com/in/karan",
+      "status": "employed",
+      "avatar": "KS"
+    },
+    {
+      "id": 5,
+      "name": "Neha Gupta",
+      "email": "neha@example.com",
+      "batch": "2021",
+      "branch": "Computer Science",
+      "company": "Amazon",
+      "location": "Pune",
+      "phone": "9876543214",
+      "linkedin": "linkedin.com/in/neha",
+      "status": "employed",
+      "avatar": "NG"
+    },
+    {
+      "id": 6,
+      "name": "Arjun Mehta",
+      "email": "arjun@example.com",
+      "batch": "2016",
+      "branch": "IT",
+      "company": "TCS",
+      "location": "Delhi",
+      "phone": "9876543215",
+      "linkedin": "linkedin.com/in/arjun",
+      "status": "self-employed",
+      "avatar": "AM"
+    },
+      {
+      "id": 7,
+      "name": "MEDICHARLA K SATYA PHANINDRA",
+      "email": "mkanish2004@gmail.com",
+      "batch": "2016",
+      "branch": "Computer Science",
+      "company": "Google",
+      "location": "Hyderabad",
+      "phone": "8143539080",
+      "linkedin": "linkedin.com/in/M K Satya Phanindra",
+      "status": "employed",
+      "avatar": "AM"
+    }
+    
+
+
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Annual Alumni Meet 2024",
+      "date": "2024-12-15",
+      "location": "Campus Auditorium",
+      "description": "Yearly gathering of alumni",
+      "registrations": 145
+    },
+    {
+      "id": 2,
+      "title": "Tech Talk: AI in Industry",
+      "date": "2024-11-20",
+      "location": "Online (Zoom)",
+      "description": "Webinar by alumni working in AI",
+      "registrations": 89
+    },
+    {
+      "id": 3,
+      "title": "Career Guidance Workshop",
+      "date": "2024-10-05",
+      "location": "Seminar Hall",
+      "description": "Workshop for final year students",
+      "registrations": 210
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "type": "Full-time",
+      "postedBy": "Priya Sharma",
+      "date": "2024-10-01",
+      "description": "Looking for experienced SWE."
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "company": "Wipro",
+      "location": "Bangalore",
+      "type": "Full-time",
+      "postedBy": "Rahul Verma",
+      "date": "2024-10-05",
+      "description": "Data analyst with 2+ years experience."
+    },
+    {
+      "id": 3,
+      "title": "Product Manager",
+      "company": "Startup XYZ",
+      "location": "Remote",
+      "type": "Full-time",
+      "postedBy": "Arjun Mehta",
+      "date": "2024-10-10",
+      "description": "PM role at a fast-growing startup."
+    }
+  ]
+}
